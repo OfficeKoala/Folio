@@ -127,7 +127,7 @@ export default function PersistentDrawerLeft() {
                     </IconButton>
                     <Typography variant="h5" noWrap>
                         Vicky Yadav
-          </Typography>
+                    </Typography>
                 </Toolbar>
             </AppBar>
             <Drawer
@@ -220,7 +220,7 @@ const ChangeComponent = (changeComponentTo, currentComponent) => {
 
         default: {
 
-            return <Main />
+            return <ProfileTop />
         }
 
     }
