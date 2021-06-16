@@ -1,0 +1,17 @@
+.belowContainerMoreMain {
+  display: flex;
+  height: 300px;
+}
+.belowContainerMoreMain div {
+  width: 33%;
+}
+
+@media only screen and (max-width: 600px) {
+  .belowContainerMoreMain {
+    flex-direction: column;
+    height: 450px;
+  }
+  .belowContainerMoreMain div {
+    width: 100%;
+  }
+}
