@@ -1,7 +1,7 @@
 {
   "name": "folio",
   "version": "0.1.0",
-  "homepage": "OfficeKoala.github.io",
+  "homepage": "https://OfficeKoala.github.io/Folio",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.1.2",
