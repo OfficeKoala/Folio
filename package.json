@@ -1,6 +1,7 @@
 {
   "name": "folio",
   "version": "0.1.0",
+  "homepage": "OfficeKoala.github.io",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.1.2",
@@ -10,6 +11,7 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "autoprefixer": "^9.8.6",
+    "gh-pages": "^3.2.1",
     "keen-slider": "^5.4.1",
     "lottie-react": "^2.1.0",
     "postcss": "^7.0.35",
@@ -23,6 +25,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "npm run build && gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
