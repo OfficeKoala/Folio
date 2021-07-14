@@ -7,6 +7,7 @@ import VTAS from "./VTAS.json"
 import Goupendo from "./Goupendo.json"
 import Doctor from "./doctor.json"
 import Goal from "./Goal.json"
+import Github from "./github.json"
 import { keys } from '@material-ui/core/styles/createBreakpoints';
 
 function CarouselK(props) {
@@ -43,6 +44,19 @@ function CarouselK(props) {
                 </ul></div>,
             bgColor: '#474787',
             color: 'white'
+        },
+        {
+            name: <h4 style={{ paddingTop: '10px', textDecoration: 'underline' }}>Some Other Projects I have contributed from system design to deployment</h4>,
+            description: <div style={{ padding: '40px',textAlign:'left' }}> <span style={{paddingBottom:"12px"}}>Links to some other projects.</span>
+                <ul style={{ textAlign: 'left' }}>
+                    <li><a href="http://knottytales.netlify.com">http://knottytales.netlify.com</a> - Wedding Invitation Template for Knottytales</li>
+                    <li><a href="https://webot.netlify.com">https://webot.netlify.com</a> - Wedding Invitation Chatbot for Knottytales</li>
+                    <li><a href="https://clientgithub.herokuapp.com">https://clientgithub.herokuapp.com</a> - Github Client Mini</li>
+                    <li><a href="http://www.blackkingzandblackqueenz.com">http://www.blackkingzandblackqueenz.com</a> - An Event Driven Platform using payment gateway such as stripe a mini store .</li>
+                </ul>
+            </div>,
+            bgColor: '#218c74',
+            color: 'white'
         }
     ]
 
@@ -74,13 +88,13 @@ function ProjectCARD({ kindex, item }) {
 
 const ReactLottie = ({ keyIndex }) => {
     console.log("---&KEY", keyIndex)
-    const chooseJson = [VTAS, Goupendo, Doctor, Goal]
+    const chooseJson = [VTAS, Goupendo, Doctor, Goal,Github]
     const options = {
         animationData: chooseJson[keyIndex],
         loop: true,
         autoplay: true,
         style: {
-            height: '60%' ,
+            height: '60%',
             marginTop: 0
         },
         interactivity: {

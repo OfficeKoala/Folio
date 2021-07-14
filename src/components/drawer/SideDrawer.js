@@ -210,7 +210,7 @@ const ChangeComponent = (changeComponentTo, currentComponent) => {
                 return <Projects />
             }
 
-        case "Web": {
+        case "More": {
             return <Main />
         }
 
