@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Folio/static/css/main.43a625a5.chunk.css",
-    "main.js": "/Folio/static/js/main.64f73bb8.chunk.js",
-    "main.js.map": "/Folio/static/js/main.64f73bb8.chunk.js.map",
-    "runtime-main.js": "/Folio/static/js/runtime-main.adb40b64.js",
-    "runtime-main.js.map": "/Folio/static/js/runtime-main.adb40b64.js.map",
-    "static/js/2.e6b98027.chunk.js": "/Folio/static/js/2.e6b98027.chunk.js",
-    "static/js/2.e6b98027.chunk.js.map": "/Folio/static/js/2.e6b98027.chunk.js.map",
-    "static/js/3.8716c82e.chunk.js": "/Folio/static/js/3.8716c82e.chunk.js",
-    "static/js/3.8716c82e.chunk.js.map": "/Folio/static/js/3.8716c82e.chunk.js.map",
+    "main.css": "/Folio/static/css/main.ed5c969d.chunk.css",
+    "main.js": "/Folio/static/js/main.940eac49.chunk.js",
+    "main.js.map": "/Folio/static/js/main.940eac49.chunk.js.map",
+    "runtime-main.js": "/Folio/static/js/runtime-main.650bd5f2.js",
+    "runtime-main.js.map": "/Folio/static/js/runtime-main.650bd5f2.js.map",
+    "static/js/2.2fa41500.chunk.js": "/Folio/static/js/2.2fa41500.chunk.js",
+    "static/js/2.2fa41500.chunk.js.map": "/Folio/static/js/2.2fa41500.chunk.js.map",
+    "static/js/3.b15462b5.chunk.js": "/Folio/static/js/3.b15462b5.chunk.js",
+    "static/js/3.b15462b5.chunk.js.map": "/Folio/static/js/3.b15462b5.chunk.js.map",
     "index.html": "/Folio/index.html",
-    "static/css/main.43a625a5.chunk.css.map": "/Folio/static/css/main.43a625a5.chunk.css.map",
-    "static/js/2.e6b98027.chunk.js.LICENSE.txt": "/Folio/static/js/2.e6b98027.chunk.js.LICENSE.txt",
+    "static/css/main.ed5c969d.chunk.css.map": "/Folio/static/css/main.ed5c969d.chunk.css.map",
+    "static/js/2.2fa41500.chunk.js.LICENSE.txt": "/Folio/static/js/2.2fa41500.chunk.js.LICENSE.txt",
     "static/media/1.b9485b27.jpeg": "/Folio/static/media/1.b9485b27.jpeg",
     "static/media/2.6e2c9b06.jpeg": "/Folio/static/media/2.6e2c9b06.jpeg",
     "static/media/3.f26e8e2f.jpeg": "/Folio/static/media/3.f26e8e2f.jpeg",
@@ -19,12 +19,13 @@
     "static/media/anime.de63903d.gif": "/Folio/static/media/anime.de63903d.gif",
     "static/media/coffee.14242e64.gif": "/Folio/static/media/coffee.14242e64.gif",
     "static/media/gojou.25d7f42d.gif": "/Folio/static/media/gojou.25d7f42d.gif",
+    "static/media/logo.1f6f3ea0.png": "/Folio/static/media/logo.1f6f3ea0.png",
     "static/media/photo.fde44587.gif": "/Folio/static/media/photo.fde44587.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.adb40b64.js",
-    "static/js/2.e6b98027.chunk.js",
-    "static/css/main.43a625a5.chunk.css",
-    "static/js/main.64f73bb8.chunk.js"
+    "static/js/runtime-main.650bd5f2.js",
+    "static/js/2.2fa41500.chunk.js",
+    "static/css/main.ed5c969d.chunk.css",
+    "static/js/main.940eac49.chunk.js"
   ]
 }
