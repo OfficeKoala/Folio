@@ -28,7 +28,7 @@ const ProfileTop = () => {
       <blockquote>
         <p id="typewriter" style={{ color: "white", fontWeight: "bold", fontSize: "18px" }} >
         </p>
-        <p class="mt-3" style={{ color: "white" }} >Full stack development engineer with 2.5 years of extensive experience moulding a passion for delivering exceptional results in diverse range of industries. Full lifecycle solutions including design, development, implementation and testing of back-end, front-end, system architecture. Thriving under pressure and managing complex projects with enthusiasm and creativity.</p>
+        <p class="mt-3" style={{ color: "white" }} >Full stack development engineer with 4+ years of extensive experience moulding a passion for delivering exceptional results in diverse range of industries. Full lifecycle solutions including design, development, implementation and testing of back-end, front-end, system architecture. Thriving under pressure and managing complex projects with enthusiasm and creativity.</p>
       </blockquote>
       <figcaption class="font-medium">
         <div style={{ color: "white", fontWeight: "bold" }} class="font-semibold p-2 ">
